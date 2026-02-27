@@ -94,7 +94,7 @@
 
 ```powershell
 # 1. 进入项目目录
-cd "C:\10_Workspace\Python工具\Python-trados-tool"
+cd Python-trados-tool
 
 # 2. 激活虚拟环境
 .\venv\Scripts\activate
